@@ -8,6 +8,7 @@ Primero revisaremos que version de **git** esta instalada.
 $ git --version
 git version 2.39.5 (Apple Git-154)
 ```
+
 Si obtienes de regreso un output similar con numero de version, ```git``` esta instalado y listo para entrar en acción.
 
 Si no obtienes la versión, tendras que consultar la siguiente documentación y dependiendo de tu OS sera la guia que tendras que seguir. [Git Download](https://git-scm.com/downloads).
