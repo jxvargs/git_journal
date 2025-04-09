@@ -6,7 +6,10 @@ Dominar los fundamentos de Git desde las primeras etapas como programador te da 
 
 ## Indice - Index
 
-### Fundamentos de Git y Control de Versiones - Git Fundamentals and Version Control
+### Fundamentos de Git y Control de Versiones - Git Fundamentals and Version Control.
+
+#### Menu
 
 - [Que es Git / What is Git](fundamentos_git.md)
 - [Configuración de Git](git_config.md)
+- [Commandos Básicos - Git: _add_, _commit_ y _log_](comandos_basicos.md)
