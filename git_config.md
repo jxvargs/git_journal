@@ -88,6 +88,7 @@ Para obterner la ayuda de un subcomando:
 
 ```bash
 $ git commit --help
+
 ```
 
 Crear un directorio dentro de ```Documentos/Git``` que sera el directorio principal de todas los futuros repositorios.
