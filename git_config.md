@@ -100,5 +100,3 @@ Crear un directorio dentro de ```Documentos/Git``` que sera el directorio princi
 ```git init``` - Crea un repositorio vacio ó reinicializa uno ya existente.
 
 [Menu](README.md)
-
-[Fundamentos git](fundamentos_git.md)
