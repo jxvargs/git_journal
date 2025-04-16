@@ -5,3 +5,6 @@ Git es un sistema de control de versiones distribuido que permite rastrear cambi
 Sin Git, los desarrolladores enfrentaban problemas de organización y errores en la sincronización manual de archivos, un proceso que era tan lento como propenso a fallos.
 
 Recuerda que puedes guardar tus proyectos en la nube: [GitHub](https://github.com)
+
+---
+[Contenido](README.md)

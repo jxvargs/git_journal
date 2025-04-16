@@ -72,6 +72,11 @@ Date:   Wed Apr 10 09:12:11 2025 -0700
     Inicializa repositorio con script base
 ```
 
-Conclusión - Los direfentes staging del flujo del control de versión - algunos del los comandos se veran en los siguientes capitulos.
-
 ![Flujo de Trabajo](Images/stages.png)
+
+## Conclusión
+
+Los direfentes staging del flujo del control de versión - algunos del los comandos se veran en los siguientes capitulos.
+
+---
+[Contenido](README.md)

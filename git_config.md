@@ -5,7 +5,7 @@ Primero revisaremos que version de **git** esta instalada.
 > Nota: en mi caso utlizo macOS
 
 ```bash
-$ git --version
+~$ git --version
 git version 2.39.5 (Apple Git-154)
 ```
 
@@ -36,7 +36,7 @@ core.editor=vim
 Nuestro mejor aliado es ```git --help```
 
 ```bash
-$ git --help
+~$ git --help
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -87,17 +87,19 @@ See 'git help git' for an overview of the system.
 Para obterner la ayuda de un subcomando:
 
 ```bash
-$ git commit --help
+~$ git commit --help
 
 ```
 
-Crear un directorio dentro de ```Documentos/Git``` que sera el directorio principal de todas los futuros repositorios.
+Crear un directorio dentro de `Documentos/Git` que sera el directorio principal de todas los futuros repositorios.
 
 ```bash
 ~$ mkdir nombre_de_tu_repo
 ~$ git init 
 ```
 
-```git init``` - Crea un repositorio vacio ó reinicializa uno ya existente.
+`git init` - Crea un repositorio vacio ó reinicializa uno ya existente.
 
-[Menu](README.md)
+---
+
+[Contenido](README.md)
