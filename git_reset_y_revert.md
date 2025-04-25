@@ -50,6 +50,7 @@ Mueve HEAD y **quita los archivos del área de staging**, pero **conserva los ca
 Mueve HEAD y **borra todo lo que está staged y en el working directory**.
 
 ### Ejemplo:
+
 ```bash
 
 ~$ git reset --hard b7d1e23
