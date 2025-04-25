@@ -14,4 +14,5 @@ Dominar los fundamentos de Git desde las primeras etapas como programador te da 
 2. [Configuración de Git](git_config.md)
 3. [Commandos Básicos - Git: _add_, _commit_ y _log_](comandos_basicos.md)
 4. [Ramas - Branches Fusión de Cambios](branches.md)
-5. [tags y checkouts](tags.md)
+5. [git reset y revert](git_reset_y_revert.md)
+6. [tags y checkouts](tags.md)
