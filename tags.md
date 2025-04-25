@@ -3,7 +3,7 @@
 `git tag` se usa para marcar puntos específicos en la historia del repositorio, comúnmente usado para versiones (por ejemplo, v1.0).
 `git checkout` permite cambiar entre ramas, commits o tags específicos. También se usa para restaurar archivos a un estado anterior.
 
-Estos dos comandos facilita son piezas claves para una gestion efectiva y ordenada de los cambios en el codigo, normalmente los tags se utilizan en principalmente en *GitHub* y no en *Git*. Cuando borramos un tag en local, no se borra en el repositorio remoto. 
+Estos dos comandos facilita son piezas claves para una gestion efectiva y ordenada de los cambios en el codigo, normalmente los tags se utilizan en principalmente en *GitHub* y no en *Git*. Cuando borramos un tag en local, no se borra en el repositorio remoto.
 
 - Crear un tag: Crea un tag ligero llamado v1.0 apuntando al commit actual.
 
