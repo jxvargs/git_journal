@@ -16,3 +16,5 @@ Dominar los fundamentos de Git desde las primeras etapas como programador te da 
 4. [Ramas - Branches Fusión de Cambios](branches.md)
 5. [git reset y revert](git_reset_y_revert.md)
 6. [tags y checkouts](tags.md)
+7. [Funsion de Ramas y Solucion de Conflictos](fusion_de_ramas_conflictos.md)
+8. [Como activar la verification en dos pasos (2FA)](2fA.md)
