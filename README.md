@@ -22,3 +22,4 @@ Dominar los fundamentos de Git desde las primeras etapas como programador te da 
 10. [forks y estrellas](forks_estrellas_github.md)
 11. [pull, push y fetch](pull_push_fetch.md)
 12. [Issues y Plantillas](issues.md)
+13. [Pull Request](pull_request.md)
