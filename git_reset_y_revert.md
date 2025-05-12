@@ -4,8 +4,6 @@
 
 Revierte commits **moviendo el puntero HEAD** a un commit anterior. **No crea un nuevo commit.**
 
-### Ejemplo:
-
 ```bash
 ~$ git log --oneline
 # e.g., a3c9f6c Commit C
@@ -21,8 +19,6 @@ Revierte commits **moviendo el puntero HEAD** a un commit anterior. **No crea un
 
 Mueve HEAD al commit indicado, **conservando los cambios en el área de staging**.
 
-### Ejemplo:
-
 ```bash
 ~$ git reset --soft b7d1e23
 ```
@@ -34,8 +30,6 @@ Mueve HEAD al commit indicado, **conservando los cambios en el área de staging*
 ## git reset --mixed (por defecto)
 
 Mueve HEAD y **quita los archivos del área de staging**, pero **conserva los cambios en el directorio de trabajo**.
-
-### Ejemplo:
 
 ```bash
 ~$ git reset --mixed b7d1e23
@@ -49,8 +43,6 @@ Mueve HEAD y **quita los archivos del área de staging**, pero **conserva los ca
 
 Mueve HEAD y **borra todo lo que está staged y en el working directory**.
 
-### Ejemplo:
-
 ```bash
 
 ~$ git reset --hard b7d1e23
@@ -63,8 +55,6 @@ Mueve HEAD y **borra todo lo que está staged y en el working directory**.
 ## git revert
 
 Crea un **nuevo commit que revierte** los cambios de un commit anterior.
-
-### Ejemplo:
 
 ```bash
 ~$ git revert a3c9f6c
