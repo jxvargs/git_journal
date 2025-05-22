@@ -76,4 +76,4 @@ To github.com:usuario/repositorio.git
 
 Al refrescar la pagina podras ver que en el TAB -> `Branches`la rama `developer01` ya es parte del repositorio. despues de esto haz click en el boton `campare & pull request` espera la revision de tu companero de equipo para la revisión de cambios y aceptar el `request - > merge`
 
- [Contenido](README.md)
+[Contenido](README.md)

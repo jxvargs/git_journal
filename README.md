@@ -4,11 +4,9 @@ Esta guía tiene como finalidad servir de bitácora para registrar los comandos 
 
 Dominar los fundamentos de Git desde las primeras etapas como programador te da una ventaja competitiva, ya que te permite mantener tu código ordenado, colaborar eficientemente en equipo y participar en proyectos de código abierto. Su uso se basa principalmente en la terminal o en editores como Visual Studio Code, Cursor (VS CODE Wrapper), mediante comandos que gestionan y sincronizan los cambios. Además, plataformas como GitHub facilitan el alojamiento de repositorios y la colaboración en línea con otros desarrolladores.
 
-## Indice - Index
+## Fundamentos de Git y Control de Versiones - Git Fundamentals and Version Control
 
-### Fundamentos de Git y Control de Versiones - Git Fundamentals and Version Control.
-
-#### Contenido
+### Contenido - Content
 
 1. [Que es Git / What is Git](fundamentos_git.md)
 2. [Configuración de Git](git_config.md)
@@ -23,3 +21,7 @@ Dominar los fundamentos de Git desde las primeras etapas como programador te da 
 11. [pull, push y fetch](pull_push_fetch.md)
 12. [Issues y Plantillas](issues.md)
 13. [Pull Request](pull_request.md)
+
+#### Activity
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jxvargs/git_journal)
