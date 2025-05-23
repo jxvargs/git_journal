@@ -31,7 +31,6 @@
 
    • Usa enlaces Markdown para conectar páginas:
 
-
 ```bash
 [Nombre de Página](Nombre-de-Página)
 ```
