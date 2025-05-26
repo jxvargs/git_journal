@@ -26,6 +26,7 @@ Dominar los fundamentos de Git desde las primeras etapas como programador te da 
 16. [Gist](gist.md)
 17. [GitHub - Pages](github-pages.md)
 18. [Codespace](codespace.md)
+19. [Archivo .gitignore](git_ignore.md)
 
 #### Activity
 
