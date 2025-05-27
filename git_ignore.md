@@ -1,8 +1,6 @@
 
 # Configuración del Archivo `.gitignore`
 
-⸻
-
 ## Crear el archivo .gitignore
 
 En la raíz del repositorio:
